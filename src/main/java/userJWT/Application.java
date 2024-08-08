@@ -1,13 +1,13 @@
-package test.user_jwt;
+package userJWT;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserJwtApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserJwtApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }

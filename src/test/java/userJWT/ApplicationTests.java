@@ -1,10 +1,10 @@
-package test.user_jwt;
+package userJWT;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UserJwtApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
